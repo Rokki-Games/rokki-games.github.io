@@ -1,3 +1,3 @@
-# rokkigames.github.io
+# rokki-games.github.io
 
 Testing
